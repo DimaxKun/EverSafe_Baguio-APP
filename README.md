@@ -4,7 +4,7 @@
 
 # EverSafe Baguio
 
-### 🌧️ Disaster Preparedness & Safety App for Baguio City
+### 🌧️ Disaster Preparedness & Safety App for Baguio City Residents
 
 [![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com)
 [![Java](https://img.shields.io/badge/Language-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.java.com)
@@ -121,13 +121,7 @@ EverSafe Baguio
 
 ### Setup
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/eversafe-baguio.git
-   cd eversafe-baguio
-   ```
-
-2. **Add your API keys**
+1. **Add your API keys**
 
    In `app/src/main/AndroidManifest.xml`, replace the Maps API key:
    ```xml
@@ -138,7 +132,7 @@ EverSafe Baguio
 
    In `DashboardFragment.java` and `ChatAI.java`, set your OpenWeatherMap and Gemini keys respectively.
 
-3. **Build and run**
+2. **Build and run**
    ```bash
    ./gradlew assembleDebug
    ```
@@ -200,5 +194,5 @@ This project is for academic and community use. All rights reserved © EverSafe 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ for the people of Baguio City</sub>
+  <sub>Capstone project ❤️ for the people of Baguio City</sub>
 </div>
