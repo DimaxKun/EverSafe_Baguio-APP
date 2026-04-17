@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="app/src/main/res/drawable/applogo.png" alt="EverSafe Baguio Logo" width="120"/>
+<img src="images/app_logo.png" alt="EverSafe Baguio Logo" width="120"/>
 
 # EverSafe Baguio
 
@@ -38,7 +38,7 @@
 
 ## 📸 Screenshots
 
-> _Add screenshots here by placing images in `app/src/main/res/drawable/` and referencing them below._
+> _Screenshots of some of the app features._
 
 <div align="center">
 <table>
@@ -49,10 +49,10 @@
     <td align="center"><b>AI Chat</b></td>
   </tr>
   <tr>
-    <td><img src="app/src/main/res/drawable/about_app.png" width="180"/></td>
-    <td><img src="app/src/main/res/drawable/about_app.png" width="180"/></td>
-    <td><img src="app/src/main/res/drawable/about_app.png" width="180"/></td>
-    <td><img src="app/src/main/res/drawable/ai_chatbot.jpg" width="180"/></td>
+    <td><img src="images/dashboard.jpg" width="180"/></td>
+    <td><img src="images/warnings.jpg" width="180"/></td>
+    <td><img src="images/maps.jpg" width="180"/></td>
+    <td><img src="images/ai_chat.jpg" width="180"/></td>
   </tr>
 </table>
 </div>
@@ -188,14 +188,8 @@ Meet the Dream Team from the University of the Cordilleras:
 | Role | Name | Responsibilities |
 |---|---|---|
 | 💻 **The Hacker** | Mohammad Ali Dimacaling | Backend logic, API integrations, database architecture |
-| 🎨 **The Hipster** | Jethro Agnapan | UI/UX design, visual design, user experience |
-| 🚀 **The Hustler** | Meroshane Paca | Project management, strategy, research & testing |
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
+| 🎨 **The Hipster** | Jethro A. Agnapan | UI/UX design, visual design, user experience |
+| 🚀 **The Hustler** | Meroshane C. Paca | Project management, strategy, research & testing |
 
 ---
 
